@@ -1,5 +1,5 @@
 1.  Planta o Destruye
-   - Van apareciendo botones:  plantar / talar.
+   - Van apareciendo botones:  plantar / talar.Tienes que elegir la opcion correcta para el arbol que tengas delante
    - Tienes 30 segundos para conseguir que haya más árboles que antes.
    - Si talas demasiados, pierdes.
    - Fácil con un contador y botones.
