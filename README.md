@@ -23,11 +23,11 @@
    - Mueves al pez con ← → y tienes que esquivar botellas, latas, bolsas...
    - Cuanto más sobrevives, más puntos.
    - Básicamente un Flappy Bird cutre pero horizontal.
-6.  ¿Cómo vas hoy?
-   - Aparecen diferentes transportes.
-   - Tienes que elegir el transporte más sostenible para cada situación.
-   - Ejemplo: "Ir a comprar pan a 500 metros" .
-   - Cuanto menos CO₂ generes, mayor puntuación.
+6.  Hambre cero
+   - Palabra clave: "¡REPARTE!"
+   -La acción: Hay una cinta transportadora rápida que lleva platos de comida directamente hacia un cubo de basura al final de la pantalla. A los lados hay personas esperando.
+   -Mecánica: Hacer clic y arrastrar (o simplemente hacer clic) sobre los platos para desviarlos hacia las personas antes de que caigan a la basura.
+   -Fácil de programar: Objetos moviéndose en una dirección y un clic que los destruye/mueve de posición.
 7.  Apaga el Incendio
    - Aparecen pequeños incendios en un bosque.
    - Tienes que hacer clic sobre ellos para apagarlos.
@@ -38,14 +38,11 @@
    - Tienes que decidir rápidamente: reutilizar / reciclar / basura.
    - Algunas cosas tienen respuestas bastante troll.
    - Ideal para hacerlo con botones.
-9.  No rompas el planeta
-   - Tienes una barra de "Salud del planeta: 100%".
-   - Cada ronda eliges entre dos acciones:
-     - "Usar coche" / "Ir andando"
-     - "Ducha 20 min" / "Ducha 5 min"
-     - "Comprar nuevo" / "Reparar"
-   - Tus decisiones van modificando la barra.
-   - Al final aparece un resultado absurdo tipo: "Has salvado 3,2 planetas."
+9. Trabajo decente y crecimiento económico
+   - Palabra clave: "¡EQUIPA!"
+   -La acción: Un trabajador está a punto de entrar a una obra, pero está en camiseta y chanclas. A su alrededor flotan su casco, sus guantes y sus botas de seguridad, mezclados con objetos absurdos (un sombrero de copa, unas aletas de buceo).
+   -Mecánica: Arrastrar rápidamente los 3 equipos de protección correctos sobre el trabajador (como vestir a un muñeco recortable).
+   -Fácil de programar: Drag and drop (arrastrar y soltar) con detección de áreas (hitboxes).
 10.  El pato reciclador
     - Un pato  camina por un parque.
     - Tienes que hacer clic en toda la basura antes de que el pato llegue a ella.
