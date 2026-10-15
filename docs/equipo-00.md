@@ -1,10 +1,14 @@
-# Ian Borja Tomas | Supervisor de Producto |Ian-Ian-Ian-Ian-Ian
+# Equipo 
 
-# Pablo Daniel Baena | Supervisor QA | Padiel-Baena
+## ------------- Integrantes -------------
 
-# Diego Plana| Facilitación | Diego Plana
+### Ian Borja Tomas           | Supervisor de Producto |  Ian-Ian-Ian-Ian-Ian
 
-# Carlos Garrido Romero | Supervisor de Arquitectura, Supervisor Integración |Carlos240726
+### Pablo Daniel Baena        | Supervisor QA | Padiel-Baena
+
+### Diego Plana| Facilitación | Diego Plana
+
+### Carlos Garrido Romero     | Supervisor de Arquitectura, Supervisor Integración |  Carlos240726
 
 ---
 
