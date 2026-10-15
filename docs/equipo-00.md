@@ -1,10 +1,10 @@
-# Ian Borja Tomas | |Ian-Ian-Ian-Ian-Ian
+# Ian Borja Tomas | Supervisor de Producto |Ian-Ian-Ian-Ian-Ian
 
-# Pablo Daniel Baena | | Padiel-Baena
+# Pablo Daniel Baena | Supervisor QA | Padiel-Baena
 
-# Diego Plana| | Diego Plana
+# Diego Plana| Facilitación | Diego Plana
 
-# Carlos Garrido Romero | |Carlos240726
+# Carlos Garrido Romero | Supervisor de Arquitectura, Supervisor Integración |Carlos240726
 
 ---
 
