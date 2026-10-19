@@ -78,7 +78,7 @@ El juego adopta la estructura de ritmo rápido estilo *WarioWare*:
 ### Microjuego 3: ¡Cierra el Grifo!
 * **Nombre:** ¡Cierra el Grifo!
 * **ODS:** ODS 6 (Agua Limpia y Saneamiento)
-* **Autor:** Equipo EcoRush
+* **Autor:** Diego
 * **Instrucción en Pantalla:** ¡CIERRA!
 * **Objetivo:** Hacer clic repetidamente sobre las manivelas de los grifos que gotean para detener el desperdicio de agua antes de que se llene el depósito inferior.
 * **Controles:** Clic o Tap sobre los grifos encendidos.
@@ -112,7 +112,7 @@ El juego adopta la estructura de ritmo rápido estilo *WarioWare*:
 ### Microjuego 5: Salva al Pez
 * **Nombre:** Salva al Pez
 * **ODS:** ODS 14 (Vida Submarina)
-* **Autor:** Equipo EcoRush
+* **Autor:** Diego
 * **Instrucción en Pantalla:** ¡ESQUIVA!
 * **Objetivo:** Mover horizontalmente un pez en un río en desplazamiento continuo, esquivando la basura que flota.
 * **Controles:** Teclas de dirección `[←]` `[→]` o deslizamiento lateral (*swipe*).
@@ -129,7 +129,7 @@ El juego adopta la estructura de ritmo rápido estilo *WarioWare*:
 ### Microjuego 6: Hambre Cero
 * **Nombre:** Hambre Cero
 * **ODS:** ODS 2 (Hambre Cero)
-* **Autor:** Equipo EcoRush
+* **Autor:** Pablo
 * **Instrucción en Pantalla:** ¡REPARTE!
 * **Objetivo:** Desviar los platos de comida que avanzan por una cinta transportadora hacia las personas hambrientas a los lados antes de que caigan al cubo de basura final.
 * **Controles:** Clic/Tap sobre el plato o arrastre horizontal hacia los lados.
@@ -146,7 +146,7 @@ El juego adopta la estructura de ritmo rápido estilo *WarioWare*:
 ### Microjuego 7: Apaga el Incendio
 * **Nombre:** Apaga el Incendio
 * **ODS:** ODS 15 (Vida de Ecosistemas Terrestres)
-* **Autor:** Equipo EcoRush
+* **Autor:** Diego
 * **Instrucción en Pantalla:** ¡EXTINGUE!
 * **Objetivo:** Extinguir los focos de fuego en el bosque mediante clics, evitando tocar a los animales que cruzan la pantalla.
 * **Controles:** Clic o Tap directo sobre las llamas.
@@ -163,7 +163,7 @@ El juego adopta la estructura de ritmo rápido estilo *WarioWare*:
 ### Microjuego 8: El Vaso Equivocado
 * **Nombre:** El Vaso Equivocado
 * **ODS:** ODS 12 (Producción y Consumo Responsables)
-* **Autor:** Equipo EcoRush
+* **Autor:** Pablo
 * **Instrucción en Pantalla:** ¡DECIDE!
 * **Objetivo:** Seleccionar la acción correcta para un objeto de consumo diario mostrado en el centro.
 * **Controles:** Clic/Tap en uno de los 3 botones superiores: `[REUTILIZAR]`, `[RECICLAR]`, `[BASURA]`.
@@ -180,7 +180,7 @@ El juego adopta la estructura de ritmo rápido estilo *WarioWare*:
 ### Microjuego 9: Trabajo Decente y Crecimiento Económico
 * **Nombre:** ¡Equipa al Trabajador!
 * **ODS:** ODS 8 (Trabajo Decente y Crecimiento Económico)
-* **Autor:** Equipo EcoRush
+* **Autor:** Pablo
 * **Instrucción en Pantalla:** ¡EQUIPA!
 * **Objetivo:** Arrastrar el Equipamiento de Protección Individual (EPI) correcto (casco, guantes, botas) al operario antes de que ingrese a la obra.
 * **Controles:** Arrastrar y soltar (*Drag & Drop*).
@@ -197,7 +197,7 @@ El juego adopta la estructura de ritmo rápido estilo *WarioWare*:
 ### Microjuego 10: El Pato Reciclador
 * **Nombre:** El Pato Reciclador
 * **ODS:** ODS 12 / ODS 15 (Consumo Responsable / Vida Terrestre)
-* **Autor:** Equipo EcoRush
+* **Autor:** Ian
 * **Instrucción en Pantalla:** ¡LIMPIA!
 * **Objetivo:** Limpiar la basura del camino en el parque haciendo clic sobre ella antes de que el pato avance y la pise.
 * **Controles:** Clic o Tap rápido sobre los residuos en el suelo.
@@ -214,7 +214,7 @@ El juego adopta la estructura de ritmo rápido estilo *WarioWare*:
 ### Microjuego 11: Jardín Express
 * **Nombre:** Jardín Express
 * **ODS:** ODS 15 (Vida de Ecosistemas Terrestres)
-* **Autor:** Equipo EcoRush
+* **Autor:** Ian
 * **Instrucción en Pantalla:** ¡SIEMBRA!
 * **Objetivo:** Plantar la mayor variedad de flora (árboles, flores, arbustos) consumiendo de forma eficiente un tanque limitado de agua.
 * **Controles:** Seleccionar planta y clic en parcela de tierra.
@@ -231,7 +231,7 @@ El juego adopta la estructura de ritmo rápido estilo *WarioWare*:
 ### Microjuego 12: Sostenibilidad a lo Bruto
 * **Nombre:** Sostenibilidad a lo Bruto
 * **ODS:** ODS 12 (Producción y Consumo Responsables)
-* **Autor:** Equipo EcoRush
+* **Autor:** Ian
 * **Instrucción en Pantalla:** ¡RESPONDE!
 * **Objetivo:** Responder correctamente a una pregunta sobre una dilema o situación ambiental cotidiana bajo presión de tiempo.
 * **Controles:** Clic/Tap en las opciones `[A]`, `[B]` o `[C]`.
