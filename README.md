@@ -13,7 +13,7 @@
     Cada error resta puntos.
     Tipo mini sorting game.
 
-    ¡Cierra el Grifo!
+    ¡Cierra el Grifo! -- Diego
 
     Un grifo pierde agua constantemente.
     Tienes que hacer clic para cerrarlo antes de que se llene un depósito.
@@ -27,7 +27,7 @@
     Tienes que hacer clic en ellas para apagarlas.
     Si dejas demasiadas encendidas, pierdes.
 
-    Salva al Pez
+    Salva al Pez -- Diego
 
     Un pez está nadando por un río lleno de basura.
     Mueves al pez con ← → y tienes que esquivar botellas, latas, bolsas...
@@ -38,7 +38,7 @@
 
     Palabra clave: "¡REPARTE!" -La acción: Hay una cinta transportadora rápida que lleva platos de comida directamente hacia un cubo de basura al final de la pantalla. A los lados hay personas esperando. -Mecánica: Hacer clic y arrastrar (o simplemente hacer clic) sobre los platos para desviarlos hacia las personas antes de que caigan a la basura. -Fácil de programar: Objetos moviéndose en una dirección y un clic que los destruye/mueve de posición.
 
-    Apaga el Incendio
+    Apaga el Incendio -- Diego
 
     Aparecen pequeños incendios en un bosque.
     Tienes que hacer clic sobre ellos para apagarlos.
