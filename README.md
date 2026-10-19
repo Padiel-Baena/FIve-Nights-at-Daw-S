@@ -1,10 +1,10 @@
-1.  Planta o Destruye
+1.  Planta o Destruye - Carlos
    - Van apareciendo botones:  plantar / talar.Tienes que elegir la opcion correcta para el arbol que tengas delante
    - Tienes 30 segundos para conseguir que haya más árboles que antes.
    - Si talas demasiados, pierdes.
    - Fácil con un contador y botones.
 2.  Basura a la Papelera
-   - Caen objetos desde arriba.
+   - Caen objetos desde arriba. - Carlos
    - Tienes que arrastrarlos a su contenedor correcto.
    - Cada error resta puntos.
    - Tipo mini sorting game.
@@ -13,7 +13,7 @@
    - Tienes que hacer clic para cerrarlo antes de que se llene un depósito.
    - Cada cierto tiempo se vuelve más rápido.
    - Puntuación = litros ahorrados.
-4.  Apaga las Luces
+4.  Apaga las Luces - Carlos
    - Una casa con 10 habitaciones.
    - Las luces se van encendiendo aleatoriamente.
    - Tienes que hacer clic en ellas para apagarlas.
