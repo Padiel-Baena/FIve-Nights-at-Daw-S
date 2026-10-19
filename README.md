@@ -3,8 +3,8 @@
    - Tienes 30 segundos para conseguir que haya más árboles que antes.
    - Si talas demasiados, pierdes.
    - Fácil con un contador y botones.
-2.  Basura a la Papelera
-   - Caen objetos desde arriba. - Carlos
+2.  Basura a la Papelera  - Carlos
+   - Caen objetos desde arriba.
    - Tienes que arrastrarlos a su contenedor correcto.
    - Cada error resta puntos.
    - Tipo mini sorting game.
