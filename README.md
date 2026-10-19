@@ -56,9 +56,9 @@
         Palabra clave: "¡EQUIPA!" -La acción: Un trabajador está a punto de entrar a una obra, pero está en camiseta y chanclas. A su alrededor flotan su casco, sus guantes y sus botas de seguridad, mezclados con objetos absurdos (un sombrero de copa, unas aletas de buceo). -Mecánica: Arrastrar rápidamente los 3 equipos de protección correctos sobre el trabajador (como vestir a un muñeco recortable). -Fácil de programar: Drag and drop (arrastrar y soltar) con detección de áreas (hitboxes).
     10-El pato reciclador -Ian
     - Un pato camina por un parque. 
-- Tienes que hacer clic en toda la basura antes de que el pato llegue a ella. - Si el pato pisa basura → pierdes una vida. - Si recoges todo → "El pato está orgulloso de ti."
+    - Tienes que hacer clic en toda la basura antes de que el pato llegue a ella. - Si el pato pisa basura → pierdes una vida. - Si recoges todo → "El pato está orgulloso de ti."
     11-Jardín Express -Ian
-  - Tienes 60 segundos. - Puedes plantar árboles, flores y arbustos. - Cada planta necesita cierta cantidad de agua. - Tienes un depósito limitado. - El objetivo es conseguir la mayor biodiversidad posible sin gastar toda el agua.
+      - Tienes 60 segundos. - Puedes plantar árboles, flores y arbustos. - Cada planta necesita cierta cantidad de agua. - Tienes un depósito limitado. - El objetivo es conseguir la mayor biodiversidad posible sin gastar toda el agua.
     12-Sostenibilidad a lo bruto -Ian
     - Juego de preguntas rápidas. - Aparece una situación y tienes 3 segundos para elegir. - "Una camiseta rota: ¿qué haces?"
         A) Tirarla
